@@ -1,12 +1,14 @@
 # Preppin' Data challenge solutions
 
-This repository holds workflows for my solutions for [Preppin' Data's weekly challenges](https://preppindata.blogspot.com/){:target="_blank"} in Tableau Prep. 
+This repository holds workflows for my solutions for [Preppin' Data's weekly challenges](https://preppindata.blogspot.com/) in Tableau Prep. 
 
 
-Each workflow has a link to the detailed explanation on [my website](https://www.prosvetova.com/tag/tableau_prep/){:target="_blank"}.
+Each workflow has a link to a detailed walk-through on [my website](https://www.prosvetova.com/tag/tableau_prep/).
 
 # Useful resources
 
- - [Learn more about Tableau Prep](https://www.tableau.com/en-gb/products/prep){:target="_blank"}.
- - [Tableau Prep free trial](https://www.tableau.com/en-gb/products/prep/download){:target="_blank"}
- - [Getting started with Tableau Prep video series](https://www.tableau.com/en-gb/learn/tutorials/on-demand/getting-started-tableau-prep?playlist=409522){:target="_blank"}
+ - [How to... posts](https://preppindata.blogspot.com/p/how-toprep-index.html) on Preppin' Data's website
+ - [Data Prep Solutions by Jenny Martin](https://www.dataprepsolutions.com/)
+ - [Learn more about Tableau Prep](https://www.tableau.com/en-gb/products/prep).
+ - [Tableau Prep free trial](https://www.tableau.com/en-gb/products/prep/download)
+ - [Getting started with Tableau Prep video series](https://www.tableau.com/en-gb/learn/tutorials/on-demand/getting-started-tableau-prep?playlist=409522)
