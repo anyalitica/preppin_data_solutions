@@ -4,6 +4,7 @@ Here is the workflow for my solution for the first Preppin’ Data challenge of 
 
 Please [visit my website](https://www.prosvetova.com/blog/2020-01-04-preppindata_2020w1) for a step-by-step walk-through of the solution. 
 
+![Preppin' Data 2020: week 1 solution](PD2020w1_flow.png)
 
 **Techniques used:**
 
@@ -13,5 +14,3 @@ Please [visit my website](https://www.prosvetova.com/blog/2020-01-04-preppindata
  - Union
  - Removing duplicates
  - String calculations
-
-//# Useful resources
