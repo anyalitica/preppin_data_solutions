@@ -5,6 +5,8 @@ This repository holds workflows for my solutions for [Preppin' Data's weekly cha
 
 Each workflow has a link to a detailed walk-through on [my website](https://www.prosvetova.com/tag/tableau_prep/).
 
+Reach me at [@Anyalitica](https://twitter.com/Anyalitica) on Twitter
+
 # Useful resources
 
  - [How to... posts](https://preppindata.blogspot.com/p/how-toprep-index.html) on Preppin' Data's website
